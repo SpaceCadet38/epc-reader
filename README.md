@@ -7,7 +7,7 @@ EPC Reader is an application for manipulating Excel file with EPC code
 - Open and read Excel file, store it into database in specified table (database must be first created)
 - Database management system (DBMS) must be Microsoft SQL Server
 - Export Excel file from database, the output file contain EPC code and ri date
--
+- Send excel to destination URL
 
 ## Tech used
 
